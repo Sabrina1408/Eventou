@@ -1,5 +1,6 @@
 <h1>Eventou</h1>
 Design no figma de um projeto para a diciplina de interface de sistemas na faculdade.
+![image](https://user-images.githubusercontent.com/88604193/177590405-8257aa8c-137d-41cb-9f2d-0035e5ddac3f.png)
 <h2>Links</h2>
 <ul>
   <li>
@@ -16,7 +17,7 @@ Além de tudo isso, contamos com cupons exlusivos para você aproveitar seu even
 Aqui você pode achar eventos, salvar suas festividades favoritas e salvar seus eventos comprados nos sites oficiais. <br>
 Não existe a possibilidade de comprar ingressos no app, apenas direcionamos para o site original do evento caso queira adquirir o ingresso. <br>
 O app é livre para todos os públicos, mas cada evento tem sua própria classificação indicativa.</p>
-<h2>Status</h2>
+<h2>Status/Nota</h2>
 <ul>
   <li>Finalizado.</li>
   <li>Nota AVA1: 100</li>
