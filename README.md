@@ -1,12 +1,9 @@
 <h1>Eventou</h1>
-Design no figma
-<h2>Descrição</h2>
+Design no figma de um projeto para a diciplina de interface de sistemas na faculdade.
+<h2>Links</h2>
 <ul>
   <li>
-    Design no figma de um projeto para a diciplina de interface de sistemas na faculdade.
-    </li>
-  <li>
-    <a href="https://www.figma.com/file/nUl832qQihqe5KBWQHTh28/Eventus?node-id=117%3A277">Link do site</a>
+    <a href="https://www.figma.com/file/nUl832qQihqe5KBWQHTh28/Eventus?node-id=117%3A277">Link do Figma</a>
   </li>
   <li>
     <a href="https://sabrinaalves.tk" target="_blank">Meu portifólio</a>
