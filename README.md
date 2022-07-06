@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/88604193/177590405-8257aa8c-137d-41cb-9f2d-0035e5ddac3f.png)
+![image](https://user-images.githubusercontent.com/88604193/177590764-4ea508aa-5859-4dd3-91ad-f1f774793494.png)
 <h1>Eventou</h1>
 <p>Design no figma de um projeto para a diciplina de interface de sistemas na faculdade.</p>
 <h2>Links</h2>
