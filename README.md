@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/88604193/177592156-1b5ca0d8-957e-4e0c-9375-ba54c0f80bde.png)
 <h1>Eventou</h1>
 <p>Design no figma de um projeto para a diciplina de interface de sistemas na faculdade.</p>
+<p>Telas no total: 13</p>
 <h2>Links</h2>
 <ul>
   <li>
